@@ -1,7 +1,7 @@
 ---
-title: Controllable
+title: Survey
 type: docs
-weight: 3
+weight: 1
 bookFlatSection: true
 bookCollapseSection: true
 ---

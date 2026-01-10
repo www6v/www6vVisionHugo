@@ -1,8 +1,8 @@
 ---
-title: Data
+title: DiT
 type: docs
-weight: 3
-bookFlatSection: true
+weight: 40
+bookFlatSection: false
 bookCollapseSection: true
 ---
 

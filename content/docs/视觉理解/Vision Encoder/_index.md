@@ -1,8 +1,8 @@
 ---
-title: 人像生图
+title: Vision Encoder
 type: docs
 weight: 3
-bookFlatSection: true
+bookFlatSection: false
 bookCollapseSection: true
 ---
 

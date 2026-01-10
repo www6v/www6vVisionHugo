@@ -1,7 +1,7 @@
 ---
-title: Vision
+title: 视觉理解
 type: docs
-weight: 60
+weight: 10
 bookFlatSection: true
 bookCollapseSection: true
 ---

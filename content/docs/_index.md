@@ -1,7 +1,7 @@
 ---
-title: Vision Encoder
+title: Vision
 type: docs
-weight: 3
+weight: 6
 bookFlatSection: true
 bookCollapseSection: true
 ---

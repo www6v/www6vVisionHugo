@@ -1,18 +1,10 @@
 ---
 title: (综述)多模态 
-date: 2023-01-18 09:48:37
-tags:
-  - multimodal
-categories:
-  - AIGC  
-  - multimodal
 ---
 
-<p></p>
-<!-- more -->
 
-## 目录
-<!-- toc -->
+
+
 
 # 论文[Foundational Models Defining]
 + 论文地址

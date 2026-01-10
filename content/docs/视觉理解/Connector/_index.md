@@ -1,8 +1,8 @@
 ---
-title: 端到端训练LLM(LMM)
+title: Connector
 type: docs
 weight: 3
-bookFlatSection: true
+bookFlatSection: false
 bookCollapseSection: true
 ---
 

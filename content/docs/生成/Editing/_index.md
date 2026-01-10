@@ -1,8 +1,8 @@
 ---
 title: Editing
 type: docs
-weight: 3
-bookFlatSection: true
+weight: 20
+bookFlatSection: false
 bookCollapseSection: true
 ---
 
