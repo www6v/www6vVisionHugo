@@ -1,5 +1,6 @@
 ---
 title:   (实战)Stable Diffusion 
+weight: 10
 ---
 
 

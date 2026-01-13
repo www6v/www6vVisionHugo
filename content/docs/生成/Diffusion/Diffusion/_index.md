@@ -1,15 +1,9 @@
 ---
 title: (原理)Stable Diffusion
-date: 2023-06-29 17:28:21
-tags:
-  - multimodal
-categories:
-  - AIGC  
-  - multimodal
+weight: 1
 ---
 
-<p></p>
-<!-- more -->
+
 
 
 

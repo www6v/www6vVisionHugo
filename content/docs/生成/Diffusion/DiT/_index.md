@@ -1,15 +1,9 @@
 ---
 title:  (原理|实战)DiT
-date: 2023-07-21 13:59:11
-tags:
-  - Diffusion
-categories: 
-  - AIGC
-  - Diffusion 
+weight: 50
 ---
 
-<p></p>
-<!-- more -->
+
 
 
 # 论文
