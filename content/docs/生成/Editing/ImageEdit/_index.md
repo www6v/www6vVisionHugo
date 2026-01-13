@@ -1,18 +1,8 @@
 ---
 title:  (综述)Image Editing
-date: 2023-07-06 19:10:10
-tags:
-  - Diffusion
-categories: 
-  - AIGC
-  - Diffusion 
 ---
 
-<p></p>
-<!-- more -->
 
-## 目录
-<!-- toc -->
 
 # 论文
 + 论文地址

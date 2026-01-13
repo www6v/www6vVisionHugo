@@ -1,15 +1,8 @@
 ---
 title: Prompt-to-Prompt
-date: 2024-04-16 16:25:38
-tags:
-  - Diffusion
-categories: 
-  - AIGC
-  - Diffusion 
 ---
 
-<p></p>
-<!-- more -->
+
 
 
 # 论文

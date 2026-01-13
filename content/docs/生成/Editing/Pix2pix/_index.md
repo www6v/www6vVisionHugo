@@ -1,15 +1,8 @@
 ---
 title: pix2pix-zero
-date: 2024-04-16 16:26:40
-tags:
-  - Diffusion
-categories: 
-  - AIGC
-  - Diffusion 
 ---
 
-<p></p>
-<!-- more -->
+
 
 
 # 论文

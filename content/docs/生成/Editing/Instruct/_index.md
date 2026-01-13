@@ -1,15 +1,8 @@
 ---
 title: InstructPix2Pix
-date: 2024-04-16 16:25:58
-tags:
-  - Diffusion
-categories: 
-  - AIGC
-  - Diffusion 
 ---
 
-<p></p>
-<!-- more -->
+
 
 
 # 论文
