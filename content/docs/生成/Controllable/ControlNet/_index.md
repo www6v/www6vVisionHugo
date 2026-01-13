@@ -1,15 +1,8 @@
 ---
 title: (原理|实战)ControlNet
-date: 2023-08-22 18:26:17
-tags:
-  - Diffusion
-categories: 
-  - AIGC
-  - Diffusion 
 ---
 
-<p></p>
-<!-- more -->
+
 
 
 # 论文[ControlNet]

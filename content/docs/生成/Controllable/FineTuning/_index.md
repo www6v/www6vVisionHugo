@@ -1,15 +1,8 @@
 ---
 title: (work|实战) fine-tuning
-date: 2023-07-06 19:24:20
-tags:
-  - Diffusion
-categories: 
-  - AIGC
-  - Diffusion 
 ---
 
-<p></p>
-<!-- more -->
+
 
 # 对比总结[1]
 

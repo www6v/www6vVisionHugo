@@ -1,15 +1,8 @@
 ---
 title:  (原理|实战)DreamBooth
-date: 2024-07-17 10:51:11
-tags:
-  - Diffusion
-categories: 
-  - AIGC
-  - Diffusion 
 ---
 
-<p></p>
-<!-- more -->
+
 
 
 # Approach[1]
