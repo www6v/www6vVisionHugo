@@ -1,5 +1,5 @@
 ---
-title: Works
+title: Qwen-VL
 type: docs
 weight: 10
 bookFlatSection: false
