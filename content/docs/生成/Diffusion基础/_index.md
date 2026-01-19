@@ -1,7 +1,7 @@
 ---
-title: Diffusion
+title: Diffusion 基础
 type: docs
-weight: 10
+weight: 1
 bookFlatSection: false
 bookCollapseSection: true
 ---
