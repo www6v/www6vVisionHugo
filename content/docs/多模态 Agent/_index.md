@@ -1,7 +1,7 @@
 ---
-title: 端到端训练LLM(LMM)
+title: 多模态 Agent
 type: docs
-weight: 30
+weight: 40
 bookFlatSection: true
 bookCollapseSection: true
 ---

@@ -1,7 +1,7 @@
 ---
-title: Multimodal Agent
+title: MLLM
 type: docs
-weight: 40
+weight: 30
 bookFlatSection: true
 bookCollapseSection: true
 ---
