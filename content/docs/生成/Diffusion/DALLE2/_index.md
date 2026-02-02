@@ -1,5 +1,5 @@
 ---
-title: (原理)unCLIP
+title: (原理)DALLE-2[unCLIP]
 weight: 40
 ---
 
