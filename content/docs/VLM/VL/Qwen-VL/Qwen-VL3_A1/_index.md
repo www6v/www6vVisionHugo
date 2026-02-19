@@ -10,7 +10,7 @@ weight: 1
 
 
 
-
-
+# 参考
+ [Notes on Qwen3 VL](https://maosong.website/p/notes-on-qwen3-vl/)
 
 
