@@ -1,15 +1,7 @@
 ---
 title: CV 任务
-date: 2023-07-25 13:49:28
-tags:
-  - Vision
-categories: 
-  - AIGC
-  - Vision  
 ---
 
-<p></p>
-<!-- more -->
 
 # 分类 [1]
 ### image-level
