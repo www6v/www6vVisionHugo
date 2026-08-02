@@ -1,7 +1,7 @@
 ---
 title: Sound
 type: docs
-weight: 1
+weight: 100
 bookFlatSection: true
 bookCollapseSection: true
 ---
